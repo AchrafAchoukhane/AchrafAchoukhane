@@ -272,7 +272,13 @@ Some repositories may be private because they are related to academic or profess
 To keep my portfolio clear, I document my main projects through public descriptions, architecture summaries, and technical explanations.
 
 ---
+---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchrafAchoukhane&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
 ## 📫 Contact
 
 <p align="left">
