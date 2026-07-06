@@ -274,20 +274,16 @@ To keep my portfolio clear, I document my main projects through public descripti
 ---
 ---
 
-## 🐍 Contribution Graph
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AchrafAchoukhane&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
-## 📫 Contact
-
-<p align="left">
-  <a href="https://github.com/AchrafAchoukhane">
-    <img src="https://img.shields.io/badge/GitHub-AchrafAchoukhane-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/aachoukhane">
-    <img src="https://img.shields.io/badge/LinkedIn-aachoukhane-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AchrafAchoukhane/AchrafAchoukhane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AchrafAchoukhane/AchrafAchoukhane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AchrafAchoukhane/AchrafAchoukhane/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 📍 Morocco  
