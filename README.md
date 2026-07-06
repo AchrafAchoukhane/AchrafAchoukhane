@@ -24,25 +24,38 @@ Cybersecurity Engineering Student | SOC • SIEM • SOAR • AI Security • Li
 
 I am a **cybersecurity engineering student** at **Université Internationale de Rabat (UIR)** in Morocco.
 
-I am focused on building practical cybersecurity projects that simulate real professional environments, especially around **SOC monitoring, SIEM integration, security automation, Linux administration, and AI-assisted threat analysis**.
+I am focused on building practical cybersecurity projects that simulate real professional environments, especially around **SOC monitoring, SIEM integration, security automation, Linux administration, backend/API development, and AI-assisted threat analysis**.
 
-My current goal is to strengthen my hands-on skills through realistic labs, academic projects, and portfolio-ready cybersecurity platforms.
+My objective is to improve my hands-on cybersecurity engineering skills by building real projects, troubleshooting technical problems, and documenting my work professionally.
 
 ---
 
 ## 🚀 Current Main Project
 
-### 🛡️ AI-SOC Banking Cybersecurity Platform
+### 🛡️ AI-SOC / SIEM-AI-SOAR Cyber Threat Detection Platform
 
-I am currently working on an **AI-powered SOC platform** for a banking cybersecurity context.
+I am currently working on a private cybersecurity project named:
+
+### `siem-ai-soar-platform`
+
+This project is an **AI-powered SOC platform** designed to improve cyber threat detection, alert analysis, response automation, and incident reporting.
+
+The platform combines **SIEM, AI, SOAR concepts, backend APIs, and a web dashboard** to simulate a realistic SOC environment.
+
+---
+
+## 🎯 Project Objectives
 
 The objective of this project is to build a system capable of supporting:
 
 - Early cyber threat detection
 - Security alert collection and analysis
+- Wazuh alert integration
 - AI-assisted alert enrichment
 - Graduated incident response
 - SOC dashboard visualization
+- Notification handling
+- Incident tracking
 - Post-incident reporting
 - SIEM/SOAR workflow simulation
 
@@ -52,46 +65,70 @@ The project is designed as a practical cybersecurity platform that combines **de
 
 ---
 
-## 🎯 My Role in the Project
-
-In this project, I am working on:
-
-- Backend/API development
-- Wazuh integration
-- Alert collection and processing
-- AI-assisted security alert analysis
-- Dashboard implementation
-- SIEM/SOAR workflow design
-- Linux lab configuration
-- Git/GitHub collaboration workflow
-- Testing and troubleshooting in a virtual lab environment
-
----
-
 ## 🧩 Project Architecture Overview
 
 ```text
-Linux Lab Environment
+Linux Virtual Lab Environment
         │
         ▼
 Wazuh SIEM
         │
         ▼
-FastAPI Backend
+FastAPI Backend API
         │
         ├── Alert Collection
         ├── Alert Processing
         ├── AI Analysis Layer
-        └── Response Workflow Logic
+        ├── Notification Logic
+        ├── Response Workflow Logic
+        └── Incident Reporting
         │
         ▼
 Web Dashboard
         │
-        ├── Alerts
+        ├── Wazuh Alerts
         ├── AI Analysis
+        ├── Notifications
         ├── Response Actions
         └── Incident Reports
 ```
+
+---
+
+## 🛠️ What I Am Building
+
+In this project, I am working on:
+
+- Backend API development with **FastAPI**
+- Wazuh integration for alert collection
+- Alert processing and normalization
+- AI-assisted alert analysis
+- Dashboard implementation
+- Notification system behavior
+- SOC workflow simulation
+- Linux virtual lab setup
+- Git/GitHub collaboration workflow
+- Branch management and commits
+- Testing and troubleshooting backend services
+- Debugging connectivity issues between services
+
+---
+
+## 🔐 Cybersecurity Context
+
+This project is related to a **banking cybersecurity context** and focuses on how a SOC can improve detection and response using automation and AI-assisted analysis.
+
+Main cybersecurity areas covered:
+
+- SIEM monitoring
+- SOC alert triage
+- Threat detection
+- Incident response
+- Log analysis
+- Security automation
+- Alert enrichment
+- Response workflow design
+- Post-incident analysis
 
 ---
 
@@ -107,6 +144,7 @@ Web Dashboard
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API" />
 </p>
 
 ---
@@ -123,6 +161,7 @@ Web Dashboard
 - Web/API security basics
 - SOC workflow understanding
 - Security automation concepts
+- AI-assisted alert analysis
 
 ---
 
@@ -138,6 +177,7 @@ Web Dashboard
 - Cisco Packet Tracer
 - Wireshark
 - Virtual network labs
+- Connectivity troubleshooting
 
 ---
 
@@ -151,6 +191,8 @@ Web Dashboard
 - VMware Workstation
 - VirtualBox
 - Server troubleshooting
+- Service testing
+- Port testing and connectivity checks
 
 ---
 
@@ -165,6 +207,8 @@ Web Dashboard
 - SQL
 - HTML / CSS
 - Git & GitHub
+- Backend troubleshooting
+- API testing
 
 ---
 
@@ -179,10 +223,11 @@ Web Dashboard
 - Dashboard development for cybersecurity monitoring
 - Cloud security fundamentals
 - AI security concepts
+- Professional Git/GitHub workflow
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Project
 
 ### `siem-ai-soar-platform`
 
@@ -194,9 +239,27 @@ Private repository — intelligent cybersecurity platform based on:
 - FastAPI backend
 - Web dashboard
 - Linux virtual lab environment
+- Notification workflow
 - Incident reporting workflow
 
 > Source code is not public due to confidentiality.
+
+---
+
+## 🧪 Hands-On Work
+
+This project includes practical work such as:
+
+- Running backend services with Uvicorn
+- Testing API availability
+- Troubleshooting local network connectivity
+- Checking service ports
+- Managing Git branches
+- Making commits and pushing to GitHub
+- Working on private repository collaboration
+- Testing Wazuh alerts
+- Improving dashboard behavior
+- Debugging notification display issues
 
 ---
 
